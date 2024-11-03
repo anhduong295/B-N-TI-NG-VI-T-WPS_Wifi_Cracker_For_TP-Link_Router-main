@@ -9,7 +9,7 @@
 $ apt update && apt upgrade -y
 $ pkg install -y root-repo
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
-$ git clone https://github.com/anhduong295/Vietnamese-WPS_Wifi_Cracker_For_TP-Link_Router-main.git
+$ git clone https://github.com/anhduong295/WPS_Wifi_Cracker_For_TP-Link_Router.git
 $ chmod +x WPS_Wifi_Cracker_For_TP-Link_Router/Tanvir_inject.py
 To Run: 
 $ sudo python Tanvir_inject.py -i wlan0 -K
